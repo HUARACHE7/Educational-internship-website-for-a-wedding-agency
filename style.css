@@ -16,7 +16,7 @@ h1, h2, h3 {
     font-weight: 400;
 }
 
-/* Первый экран и шапка */
+
 .hero {
     background-image: url('img/hero.png');
     background-size: cover;
@@ -94,12 +94,12 @@ nav a:hover {
     color: #1A1A1A;
 }
 
-/* Основной контейнер */
+
 main {
     padding: 60px calc(50% - 600px);
 }
 
-/* Блок преимуществ */
+
 .advantages h2 {
     text-align: center;
     font-size: 28px;
@@ -166,7 +166,7 @@ main {
     background-color: #b89628;
 }
 
-/* Блок услуг */
+
 .services h2 {
     font-size: 28px;
     margin-bottom: 30px;
@@ -221,7 +221,7 @@ main {
     text-align: center;
 }
 
-/* Блок Как мы работаем */
+
 .steps-title {
     padding: 20px calc(50% - 600px);
 }
@@ -281,7 +281,7 @@ main {
     padding-left: 20px;
 }
 
-/* Баннер с QR-кодом */
+
 .qr-banner {
     display: flex;
     align-items: center;
@@ -306,7 +306,7 @@ main {
     margin: 0;
 }
 
-/* Портфолио */
+
 .portfolio h2 {
     font-size: 28px;
     margin-bottom: 10px;
@@ -341,7 +341,7 @@ main {
     background-color: #FFFFFF;
 }
 
-/* Подписка на рассылку */
+
 .subscribe-box {
     display: flex;
     justify-content: space-between;
@@ -403,7 +403,7 @@ main {
     border-radius: 20px;
 }
 
-/* Форма обратной связи */
+
 .contact-section {
     background-image: url('img/form.png');
     background-size: cover;
@@ -445,7 +445,7 @@ main {
     cursor: pointer;
 }
 
-/* Адаптация под мобильные устройства (400px) */
+
 @media (max-width: 480px) {
     header {
         padding: 15px 20px;
